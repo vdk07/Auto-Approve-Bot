@@ -100,14 +100,6 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
 </p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/vdk07/Auto-Approved-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
-
-<p align="center">
-😎 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 😎
-</p>
-<p align="center">
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
-</p>
-
 
